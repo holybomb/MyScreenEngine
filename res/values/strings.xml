@@ -1,0 +1,14 @@
+<resources>
+
+    <string name="app_name">MyScreenEngine</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="menu_settings">Settings</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="title_activity_hello_world_fragment">HelloWorldFragment</string>
+
+    <color name="backgroundColor">#ab1241</color>
+
+    <string name="title_activity_home">HomeActivity</string>
+    <string name="title_activity_setting">SettingActivity</string>
+
+</resources>
